@@ -1,3 +1,3 @@
 msg Hello World!
 mkdir web
-downli https://e--alicode.web.app web/index.html
+downli https://e--alicode.web.app;web/index.html
