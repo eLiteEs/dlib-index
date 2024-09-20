@@ -1,11 +1,11 @@
 msg Downloading C^8 Files...
 mkdir cb8
-downfi https://elitees.github.io/cb8-2/arrays.cpp;cb8/arrays.cpp
-downfi https://elitees.github.io/cb8-2/console.cpp;cb8/console.cpp
-downfi https://elitees.github.io/cb8-2/file.cpp;cb8/file.cpp
-downfi https://elitees.github.io/cb8-2/imports.cpp;cb8/imports.cpp
-downfi https://elitees.github.io/cb8-2/input.cpp;cb8/input.cpp
-downfi https://elitees.github.io/cb8-2/math.cpp;cb8/math.cpp
-downfi https://elitees.github.io/cb8-2/networking.cpp;cb8/networking.cpp
-downfi https://elitees.github.io/cb8-2/output.cpp;cb8/output.cpp
-downfi https://elitees.github.io/cb8-2/utils.cpp;cb8/utils.cpp
+downli https://elitees.github.io/cb8-2/arrays.cpp;cb8/arrays.cpp
+downli https://elitees.github.io/cb8-2/console.cpp;cb8/console.cpp
+downli https://elitees.github.io/cb8-2/file.cpp;cb8/file.cpp
+downli https://elitees.github.io/cb8-2/imports.cpp;cb8/imports.cpp
+downli https://elitees.github.io/cb8-2/input.cpp;cb8/input.cpp
+downli https://elitees.github.io/cb8-2/math.cpp;cb8/math.cpp
+downli https://elitees.github.io/cb8-2/networking.cpp;cb8/networking.cpp
+downli https://elitees.github.io/cb8-2/output.cpp;cb8/output.cpp
+downli https://elitees.github.io/cb8-2/utils.cpp;cb8/utils.cpp
