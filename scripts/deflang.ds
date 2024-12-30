@@ -1,1 +1,4 @@
-downli https://elitees.github.io/defLang/def.exe;def.exe
+mkdir deflang
+
+downli https://elitees.github.io/defLang/def.exe;deflang/def.exe
+downli https://elitees.github.io/defLang/LICENSE;deflang/LICENSE
