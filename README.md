@@ -3,3 +3,4 @@
 |------|-----------------|----------------------|
 | test | ```dlib test``` | ✓ (but it's a test)  |
 | cb8  | ```dlib cb8```  | ✓                    |
+| defLang | `dlib deflang` | ✓ |
