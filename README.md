@@ -12,6 +12,7 @@ dlib --repository update
 
 
 ## Libraries
-| Name | Command         | Validated            |
-|------|-----------------|----------------------|
-| test | ```dlib test``` | ✓ (but it's a test)  |
+| Name | Command         | Version | Validated            |
+|------|-----------------|---------|----------------------|
+| test | ```dlib install test``` | `v0.0.1` | ✓ (but it's a test)  |
+| mank-git | ```dlib install mank-git``` | `latest` | ✓ |
