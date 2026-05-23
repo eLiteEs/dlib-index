@@ -1,5 +1,5 @@
-- msg "Installing mank v0.1.0 from git"
-- run "git clone https://elitees.github.io/mank.git"
+- msg "Installing mank from git"
+- run "git clone https://github.io/eLiteEs/mank.git"
 - run "cd mank && make install"
 - delete "mank"
 - msg "Installed mank!"
