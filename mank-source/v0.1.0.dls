@@ -1,5 +1,5 @@
 - msg "Installing mank v0.1.0"
-- download "https://raw.githubusercontent.com/eLiteEs/mank/refs/heads/main/.mank/releases/v0.1.0/v0.1.0-source.zip" "mank-source.zip"
+- download "https://raw.githubusercontent.com/eLiteEs/mank/refs/heads/main/.mank/releases/v0.1.0/v0.1.0-source.zip", "mank-source.zip"
 - run "unzip mank-source.zip"
 - run "cd mank-source && make install"
 - delete "mank-source.zip"
