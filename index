@@ -1,2 +1,2 @@
-- script "mank-git" "mank-git/" "v0.1.0"
+- script "mank-git" "mank-git/" "latest"
 - script "test" "test/" "v0.0.1"
