@@ -7,6 +7,7 @@ The official index for dlib.
 For adding this repository to dlib, run:
 ```
 dlib --repository add https://elitees.github.io/dlib-index/
+dlib --repository update
 ```
 
 
