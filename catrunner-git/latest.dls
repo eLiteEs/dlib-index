@@ -1,0 +1,5 @@
+- msg "Installing cat-runner from git"
+- run "git clone https://github.com/eLiteEs/cat-runner.git" 
+- run "cd cat-runner && make install"
+- delete "cat-runner"
+- msg "Installed cat-runner!"

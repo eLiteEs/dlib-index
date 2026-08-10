@@ -1,0 +1,5 @@
+- msg "Installing brainmeow from git"
+- run "git clone https://github.com/eLiteEs/brainmeow.git" 
+- run "cd brainmeow && make install"
+- delete "brainmeow"
+- msg "Installed brainmeow!"

@@ -1,0 +1,5 @@
+- msg "Installing epi2 from git"
+- run "git clone https://github.com/eLiteEs/epi2.git" 
+- run "cd epi2 && make install"
+- delete "epi2"
+- msg "Installed epi2!"

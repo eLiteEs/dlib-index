@@ -1,3 +1,5 @@
 - script "mank-git" "mank-git/" "latest"
 - script "test" "test/" "v0.0.1"
 - script "mank-source" "mank-source/" "v0.1.0"
+- script "ensamblasdor-git" "ensamblador-git/" "latest"
+- script "catrunner-git" "catrunner-git/" "latest"

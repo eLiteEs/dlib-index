@@ -1,0 +1,5 @@
+- msg "Installing ensamblasdor from git"
+- run "git clone https://github.com/eLiteEs/ensamblasdor.git" 
+- run "cd ensamblasdor && make install"
+- delete "ensamblasdor"
+- msg "Installed ensamblasdor!"
